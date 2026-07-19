@@ -65,7 +65,6 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zulfarida0107-crypto&layout=compact&theme=default" height="165" />
 </p>
 
-21 public repositories · 230+ contributions in the past year
 
 ---
 
