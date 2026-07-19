@@ -61,8 +61,8 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=zulfarida0107-crypto&show_icons=true&theme=default&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfarida0107-crypto&layout=compact&theme=default" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=zulfarida0107-crypto&show_icons=true&theme=default&count_private=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zulfarida0107-crypto&layout=compact&theme=default" height="165" />
 </p>
 
 21 public repositories · 230+ contributions in the past year
