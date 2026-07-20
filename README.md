@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zulfarida 👋</h1>
+<h1 align="center">Hi there, I'm Zulfarida </h1>
 
 <h3 align="center">Informatics Engineering Student | Full Stack Developer Track | IT Project Coordination & Organization Management</h3>
 
@@ -13,21 +13,21 @@ I build resilient, high-performance digital solutions with a focus on clean arch
 
 ---
 
-### 🎓 About Me
+###  About Me
 
 Informatics Engineering student (Full Stack Developer track, Politeknik Negeri Jakarta in collaboration with CEP–CCIT FTUI, Universitas Indonesia) with hands-on experience delivering **15+ academic and independent software projects** across web development, mobile applications, database design, systems security, and DevOps practices.
 
 Proven cross-functional collaborator with **2+ years of organizational leadership experience** across student committees, technical communities, and event management.
 
-- 🔭 Currently working on: **Coffee Shop Integrated Information System** (Undergraduate Thesis)
-- 🌱 Currently exploring: **Python** for gesture recognition (BISINDO project)
-- 💼 Open to: Full Stack Development, IT Project/Product Management, Business/Systems Analysis
+-  Currently working on: **Coffee Shop Integrated Information System** (Undergraduate Thesis)
+-  Currently exploring: **Python** for gesture recognition (BISINDO project)
+-  Open to: Full Stack Development, IT Project/Product Management, Business/Systems Analysis
 - 📍 Based in: Depok, West Java, Indonesia
 - 📫 Reach me: afafaridaz91@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Frameworks**
 
@@ -58,7 +58,7 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
 <img src="https://github-stats-extended.vercel.app/api?username=zulfarida0107-crypto&show_icons=true&theme=default&count_private=true" height="165" />
@@ -68,21 +68,21 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎓 **[Coffee Shop Integrated Information System](https://github.com/zulfarida0107-crypto/ta-ci4-web-coffeeshop)** (Undergraduate Thesis) | Multi-platform system: customer website, admin mobile app, REST API backend | CodeIgniter 4, Flutter, Spring Boot, MySQL |
-| 📊 **[ARAS Decision Support System](https://github.com/zulfarida0107-crypto/ci4-aras-metode)** | Decision support system implementing the ARAS method | PHP, MySQL |
-| 💳 **[Midtrans Payment Integration](https://github.com/zulfarida0107-crypto/midtrans-coffee-web)** | Web application integrated with Midtrans payment gateway | CodeIgniter 4, Midtrans API |
-| 🖐️ **BISINDO Gesture Recognition** *(in progress)* | Indonesian Sign Language (BISINDO) gesture recognition | Python |
-| ✅ **Soroban Task Tracker** | Personal task management application | — |
+|  **[Coffee Shop Integrated Information System](https://github.com/zulfarida0107-crypto/ta-ci4-web-coffeeshop)** (Undergraduate Thesis) | Multi-platform system: customer website, admin mobile app, REST API backend | CodeIgniter 4, Flutter, Spring Boot, MySQL |
+|  **[ARAS Decision Support System](https://github.com/zulfarida0107-crypto/ci4-aras-metode)** | Decision support system implementing the ARAS method | PHP, MySQL |
+|  **[Midtrans Payment Integration](https://github.com/zulfarida0107-crypto/midtrans-coffee-web)** | Web application integrated with Midtrans payment gateway | CodeIgniter 4, Midtrans API |
+|  **BISINDO Gesture Recognition** | Indonesian Sign Language (BISINDO) gesture recognition | Python |
+|  **Soroban Task Tracker** | Personal task management application | — |
 
-📁 See all projects on my [portfolio website](#) *(link coming soon)*
+ See all projects on my [portfolio website](#) *(link coming soon)*
 
 ---
 
-### 🎖️ Certifications
+###  Certifications
 
 - **CCNA: Introduction to Networks** — Cisco Networking Academy, State Polytechnic of Jakarta (2025)
 - **Copywriting AI for Digital Advertising** — Digital Talent Scholarship, Komdigi (2025)
