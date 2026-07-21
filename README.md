@@ -42,9 +42,8 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 **Database & Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(CentOS)-FF6C2C?style=for-the-badge&logo=centos&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
+![WSL Ubuntu](https://img.shields.io/badge/WSL_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Design & Tools**
@@ -89,7 +88,9 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 
 ### 🏆 Undergraduate Thesis Repositories
 
-My thesis involved building a multi-platform system to streamline coffee shop operations, separated into three distinct repositories:
+> *"An Integrated Coffee Shop Application built using a lightweight Microservices architecture. The main backend is developed using **Java Spring Boot**, while the admin/web interface uses **PHP CodeIgniter 4**. The customer application is built natively cross-platform using **Flutter (Dart)**. The system uses **MySQL** as a centralized database, integrates **Midtrans** for digital payments (Snap API), and is fully deployed using **Docker** containers."*
+
+This multi-platform system is separated into three distinct repositories:
 
 #### 1. [Backend Server (`ta-server-coffeeshop`)](https://github.com/zulfarida0107-crypto/ta-server-coffeeshop)
 The core "brain" of the system handling central business logic and providing RESTful APIs.
