@@ -26,6 +26,7 @@ Informatics Engineering student (Full Stack Developer track, Politeknik Negeri J
 **Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-005571?style=for-the-badge&logo=google&logoColor=white)
@@ -58,9 +59,8 @@ Informatics Engineering student (Full Stack Developer track, Politeknik Negeri J
 ![Midtrans](https://img.shields.io/badge/Midtrans-00A6EA?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-**Networking & Security**
+**Security**
 
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![PKI](https://img.shields.io/badge/Digital_Signature_%26_PKI-4B5563?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -89,4 +89,4 @@ Informatics Engineering student (Full Stack Developer track, Politeknik Negeri J
 |  **[ARAS Decision Support System](https://github.com/zulfarida0107-crypto/ci4-aras-metode)** | Decision support system implementing the ARAS method | PHP, MySQL |
 |  **[Midtrans Payment Integration](https://github.com/zulfarida0107-crypto/midtrans-coffee-web)** | Web application integrated with Midtrans payment gateway | CodeIgniter 4, Midtrans API |
 |  **[BISINDO Gesture Recognition](https://github.com/zulfarida0107-crypto/bisindo-gesture)** | Indonesian Sign Language (BISINDO) gesture recognition | Python, MediaPipe, Scikit-Learn |
-|  **Soroban Task Tracker** | Personal task management application | — |
+|  **[Soroban Task Tracker](https://github.com/zulfarida0107-crypto/soroban-task-tracker)** | Decentralized personal task management application on Stellar | Rust, Soroban SDK |
