@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zulfarida </h1>
 
-<h3 align="center">Informatics Engineering Student | Full Stack Developer Track | IT Project Coordination & Organization Management</h3>
+<h3 align="center">Informatics Engineering Student | Full Stack Developer Track</h3>
 
 <p align="center">
 I build resilient, high-performance digital solutions with a focus on clean architecture and user-centric design. Passionate about bridging technical engineering with strategic project coordination.
@@ -8,7 +8,7 @@ I build resilient, high-performance digital solutions with a focus on clean arch
 
 <p align="center">
 <a href="https://linkedin.com/in/zulfa-rida-685714322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:afafaridaz91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=afafaridaz91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -17,13 +17,13 @@ I build resilient, high-performance digital solutions with a focus on clean arch
 
 Informatics Engineering student (Full Stack Developer track, Politeknik Negeri Jakarta in collaboration with CEP–CCIT FTUI, Universitas Indonesia) with hands-on experience delivering **15+ academic and independent software projects** across web development, mobile applications, database design, systems security, and DevOps practices.
 
-Proven cross-functional collaborator with **2+ years of organizational leadership experience** across student committees, technical communities, and event management.
-
 -  Open to: Full Stack Development, IT Project/Product Management, Business/Systems Analysis
 
 ---
 
 ###  Tech Stack
+
+**Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,23 +36,32 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Database & Infrastructure**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WSL Ubuntu](https://img.shields.io/badge/WSL_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Design, Tools & APIs**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Midtrans](https://img.shields.io/badge/Midtrans-00A6EA?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+**Networking & Security**
+
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![PKI](https://img.shields.io/badge/Digital_Signature_%26_PKI-4B5563?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
 ---
 
