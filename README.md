@@ -15,7 +15,7 @@ I build resilient, high-performance digital solutions with a focus on clean arch
 
 ###  About Me
 
-Informatics Engineering student (Full Stack Developer track, Politeknik Negeri Jakarta in collaboration with CEP–CCIT FTUI, Universitas Indonesia) with hands-on experience delivering **15+ academic and independent software projects** across web development, mobile applications, database design, systems security, and DevOps practices.
+Informatics Engineering student (Full Stack Developer track, Politeknik Negeri Jakarta in collaboration with CEP–CCIT FTUI, Universitas Indonesia) with hands-on experience delivering ** academic and independent software projects** across web development, mobile applications, database design, systems security, and DevOps practices.
 
 -  Open to: Full Stack Development, IT Project/Product Management, Business/Systems Analysis
 
