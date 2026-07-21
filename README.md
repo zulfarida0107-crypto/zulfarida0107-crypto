@@ -61,7 +61,6 @@ Informatics Engineering student (Full Stack Developer track, Politeknik Negeri J
 
 **Security**
 
-![PKI](https://img.shields.io/badge/Digital_Signature_%26_PKI-4B5563?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
