@@ -39,6 +39,9 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Database & Infrastructure**
 
@@ -53,11 +56,16 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Midtrans](https://img.shields.io/badge/Midtrans-00A6EA?style=for-the-badge)
 
 **Networking & Security**
 
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![PKI](https://img.shields.io/badge/Digital_Signature_%26_PKI-4B5563?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
 ---
 
@@ -86,38 +94,6 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
  See all projects on my [portfolio website](#) *(link coming soon)*
 
 ---
-
-### 🏆 Undergraduate Thesis Repositories
-
-> *"An Integrated Coffee Shop Application built using a lightweight Microservices architecture. The main backend is developed using **Java Spring Boot**, while the admin/web interface uses **PHP CodeIgniter 4**. The customer application is built natively cross-platform using **Flutter (Dart)**. The system uses **MySQL** as a centralized database, integrates **Midtrans** for digital payments (Snap API), and is fully deployed using **Docker** containers."*
-
-This multi-platform system is separated into three distinct repositories:
-
-#### 1. [Backend Server (`ta-server-coffeeshop`)](https://github.com/zulfarida0107-crypto/ta-server-coffeeshop)
-The core "brain" of the system handling central business logic and providing RESTful APIs.
-* **Language & Framework**: Java 17+, Spring Boot
-* **Build Tool**: Maven
-* **Database**: MySQL 8.0
-* **Security & Docs**: Spring Security, JWT (JSON Web Token), Swagger / OpenAPI
-
-#### 2. [Frontend Web & Admin Panel (`ta-ci4-web-coffeeshop`)](https://github.com/zulfarida0107-crypto/ta-ci4-web-coffeeshop)
-Web interface for customers to browse products and for admins to manage data and orders, featuring integrated payment processing.
-* **Language & Framework**: PHP 8.2, CodeIgniter 4 (MVC)
-* **Frontend Tech**: JavaScript, HTML5, CSS3, Vanilla CSS/Bootstrap
-* **Payment Gateway**: Midtrans API (`midtrans-php` v2.6)
-* **Database**: MySQL 8.0 (Cross-connected with main server)
-
-#### 3. [Mobile Customer App (`ta-flutter-aplikasi-coffeeshop`)](https://github.com/zulfarida0107-crypto/ta-flutter-aplikasi-coffeeshop)
-Android/iOS mobile application for customers to order coffee directly from their devices.
-* **Language & Framework**: Dart, Flutter
-* **Data Communication**: REST API (`http`/`dio` library)
-* **State Management**: Provider / GetX / BLoC
-
-#### 🛠️ Shared Tools, Infrastructure & Deployment
-* **QR Code Generation**: ZXing Library
-* **Testing**: Selenium (Black Box Testing)
-* **Containerization**: Docker & Docker Compose
-* **Version Control & Deployment**: Git, deployed via GitHub
 
 ---
 
