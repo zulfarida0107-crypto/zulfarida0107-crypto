@@ -44,12 +44,15 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_(CentOS)-FF6C2C?style=for-the-badge&logo=centos&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 **Networking & Security**
 
@@ -72,13 +75,48 @@ Proven cross-functional collaborator with **2+ years of organizational leadershi
 
 | Project | Description | Stack |
 |---|---|---|
-|  **[Coffee Shop Integrated Information System](https://github.com/zulfarida0107-crypto/ta-ci4-web-coffeeshop)** (Undergraduate Thesis) | Multi-platform system: customer website, admin mobile app, REST API backend | CodeIgniter 4, Flutter, Spring Boot, MySQL |
+|  **[Coffee Shop Backend Server](https://github.com/zulfarida0107-crypto/ta-server-coffeeshop)** (Undergraduate Thesis) | Central business logic and REST API for the Coffee Shop system | Java, Spring Boot, MySQL |
+|  **[Coffee Shop Web & Admin Panel](https://github.com/zulfarida0107-crypto/ta-ci4-web-coffeeshop)** (Undergraduate Thesis) | Customer website and admin panel with Midtrans payment integration | PHP, CodeIgniter 4, Midtrans API |
+|  **[Coffee Shop Mobile App](https://github.com/zulfarida0107-crypto/ta-flutter-aplikasi-coffeeshop)** (Undergraduate Thesis) | Customer mobile ordering application | Dart, Flutter, REST API |
 |  **[ARAS Decision Support System](https://github.com/zulfarida0107-crypto/ci4-aras-metode)** | Decision support system implementing the ARAS method | PHP, MySQL |
 |  **[Midtrans Payment Integration](https://github.com/zulfarida0107-crypto/midtrans-coffee-web)** | Web application integrated with Midtrans payment gateway | CodeIgniter 4, Midtrans API |
 |  **BISINDO Gesture Recognition** | Indonesian Sign Language (BISINDO) gesture recognition | Python |
 |  **Soroban Task Tracker** | Personal task management application | — |
 
  See all projects on my [portfolio website](#) *(link coming soon)*
+
+---
+
+### 🏆 Undergraduate Thesis Repositories
+
+My thesis involved building a multi-platform system to streamline coffee shop operations, separated into three distinct repositories:
+
+#### 1. [Backend Server (`ta-server-coffeeshop`)](https://github.com/zulfarida0107-crypto/ta-server-coffeeshop)
+The core "brain" of the system handling central business logic and providing RESTful APIs.
+* **Language & Framework**: Java 17+, Spring Boot
+* **Build Tool**: Maven
+* **Database**: MySQL 8.0
+* **Security & Docs**: Spring Security, JWT (JSON Web Token), Swagger / OpenAPI
+
+#### 2. [Frontend Web & Admin Panel (`ta-ci4-web-coffeeshop`)](https://github.com/zulfarida0107-crypto/ta-ci4-web-coffeeshop)
+Web interface for customers to browse products and for admins to manage data and orders, featuring integrated payment processing.
+* **Language & Framework**: PHP 8.2, CodeIgniter 4 (MVC)
+* **Frontend Tech**: JavaScript, HTML5, CSS3, Vanilla CSS/Bootstrap
+* **Payment Gateway**: Midtrans API (`midtrans-php` v2.6)
+* **Database**: MySQL 8.0 (Cross-connected with main server)
+
+#### 3. [Mobile Customer App (`ta-flutter-aplikasi-coffeeshop`)](https://github.com/zulfarida0107-crypto/ta-flutter-aplikasi-coffeeshop)
+Android/iOS mobile application for customers to order coffee directly from their devices.
+* **Language & Framework**: Dart, Flutter
+* **Data Communication**: REST API (`http`/`dio` library)
+* **State Management**: Provider / GetX / BLoC
+
+#### 🛠️ Shared Tools, Infrastructure & Deployment
+* **QR Code Generation**: ZXing Library
+* **Testing**: Selenium (Black Box Testing)
+* **Containerization**: Docker & Docker Compose
+* **Version Control & Deployment**: Git, deployed via GitHub
+* **Development Environment**: Windows with Windows Subsystem for Linux (WSL) for a lightweight, efficient cross-platform workflow
 
 ---
 
