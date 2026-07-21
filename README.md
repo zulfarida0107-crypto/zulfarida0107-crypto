@@ -116,7 +116,6 @@ Android/iOS mobile application for customers to order coffee directly from their
 * **Testing**: Selenium (Black Box Testing)
 * **Containerization**: Docker & Docker Compose
 * **Version Control & Deployment**: Git, deployed via GitHub
-* **Development Environment**: Windows with Windows Subsystem for Linux (WSL) for a lightweight, efficient cross-platform workflow
 
 ---
 
