@@ -27,6 +27,8 @@ Informatics Engineering student (Full Stack Developer track, Politeknik Negeri J
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-005571?style=for-the-badge&logo=google&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -86,5 +88,5 @@ Informatics Engineering student (Full Stack Developer track, Politeknik Negeri J
 |  **[Coffee Shop Mobile App](https://github.com/zulfarida0107-crypto/ta-flutter-aplikasi-coffeeshop)** (Undergraduate Thesis) | Customer mobile ordering application | Dart, Flutter, REST API |
 |  **[ARAS Decision Support System](https://github.com/zulfarida0107-crypto/ci4-aras-metode)** | Decision support system implementing the ARAS method | PHP, MySQL |
 |  **[Midtrans Payment Integration](https://github.com/zulfarida0107-crypto/midtrans-coffee-web)** | Web application integrated with Midtrans payment gateway | CodeIgniter 4, Midtrans API |
-|  **BISINDO Gesture Recognition** | Indonesian Sign Language (BISINDO) gesture recognition | Python |
+|  **[BISINDO Gesture Recognition](https://github.com/zulfarida0107-crypto/bisindo-gesture)** | Indonesian Sign Language (BISINDO) gesture recognition | Python, MediaPipe, Scikit-Learn |
 |  **Soroban Task Tracker** | Personal task management application | — |
